@@ -1,0 +1,887 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7255199940963213724
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dce0f5966c2bf943a86eadf862a2eda, type: 3}
+  m_Name: Ufo_8D31D520
+  m_EditorClassIdentifier: 
+  id: 72057594037928199
+  technicalName: Ufo_8D31D520
+  parentId: 216172783392894804
+  childrenIds: 
+  mDisplayName: Videos
+  mExternalId: 
+  mShortId: 2368853280
+  mZIndex: 0
+--- !u!114 &-7066284389344322129
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c415f5fd25e5e499ed03cf139047c5, type: 3}
+  m_Name: DFr_8CBA7F60
+  m_EditorClassIdentifier: 
+  id: 72057594037928258
+  technicalName: DFr_8CBA7F60
+  parentId: 72057594037928252
+  childrenIds: 
+  mMenuText: 
+  mStageDirections: 
+  mSpeaker:
+    objectRef: 72057594037928213
+  mSplitHeight: 64
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: Apple flavoured ass kicking or orange for you sir?
+  mExternalId: 
+  mPosition: {x: -75, y: 150}
+  mZIndex: 0
+  mSize: {x: 225, y: 200}
+  mShortId: 2361032544
+  mInputPins:
+    value:
+    - id: 72057594037928261
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928258
+      mConnections:
+        value: []
+      mOwnerInstanceId: 0
+  mOutputPins:
+    value:
+    - id: 72057594037928262
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928258
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928268
+          mTarget:
+            objectRef: 72057594037928265
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928276
+          mTarget:
+            objectRef: 72057594037928273
+      mOwnerInstanceId: 0
+--- !u!114 &-6253748505596640770
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c8ecd94c6708ff49b1dde2b0e34eb5c, type: 3}
+  m_Name: Ntt_719BB104
+  m_EditorClassIdentifier: 
+  id: 72057594037928296
+  technicalName: Ntt_719BB104
+  parentId: 216172785005863603
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: Glucose Guardian
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 
+  mExternalId: 
+  mPosition: {x: 20, y: 20}
+  mZIndex: 1
+  mSize: {x: 256, y: 196}
+  mPreviewImage:
+    mViewBoxX: 0
+    mViewBoxY: 0
+    mViewBoxWidth: 0
+    mViewBoxHeight: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mShortId: 1906028804
+--- !u!114 &-5046686074125687505
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dce0f5966c2bf943a86eadf862a2eda, type: 3}
+  m_Name: Ufo_7252996D
+  m_EditorClassIdentifier: 
+  id: 72057594037928205
+  technicalName: Ufo_7252996D
+  parentId: 216172783392894804
+  childrenIds: 
+  mDisplayName: Miscellaneous
+  mExternalId: 
+  mShortId: 1918015853
+  mZIndex: 0
+--- !u!114 &-4489358682618409349
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dce0f5966c2bf943a86eadf862a2eda, type: 3}
+  m_Name: Ufo_9F64E81B
+  m_EditorClassIdentifier: 
+  id: 72057594037928203
+  technicalName: Ufo_9F64E81B
+  parentId: 216172783392894804
+  childrenIds: 
+  mDisplayName: Documents
+  mExternalId: 
+  mShortId: 2674190363
+  mZIndex: 0
+--- !u!114 &-2122265166527204344
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c415f5fd25e5e499ed03cf139047c5, type: 3}
+  m_Name: DFr_C2D77CD6
+  m_EditorClassIdentifier: 
+  id: 72057594037928273
+  technicalName: DFr_C2D77CD6
+  parentId: 72057594037928252
+  childrenIds: 
+  mMenuText: Oranges
+  mStageDirections: 
+  mSpeaker:
+    objectRef: 72057594037928213
+  mSplitHeight: 64
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: Okay but I need to squeeze them first...
+  mExternalId: 
+  mPosition: {x: 275, y: 300}
+  mZIndex: 4
+  mSize: {x: 225, y: 200}
+  mShortId: 3268902102
+  mInputPins:
+    value:
+    - id: 72057594037928276
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928273
+      mConnections:
+        value: []
+      mOwnerInstanceId: 0
+  mOutputPins:
+    value:
+    - id: 72057594037928277
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928273
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928284
+          mTarget:
+            objectRef: 72057594037928281
+      mOwnerInstanceId: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1919818469, guid: df2ec02f61e861546b9427c26ccacb8d, type: 3}
+  m_Name: All objects
+  m_EditorClassIdentifier: 
+  mPackagePath: Assets/ArticyImporter/Content/Generated/Resources/All objects.asset
+  mResourceKey: All objects
+  mObjects:
+  - {fileID: 9078397651776240109}
+  - {fileID: 3791074532541794227}
+  - {fileID: 5781539162610975756}
+  - {fileID: 3080399797258632913}
+  - {fileID: 8616125842117314633}
+  - {fileID: -7066284389344322129}
+  - {fileID: 7998252630620126468}
+  - {fileID: -2122265166527204344}
+  - {fileID: 1383178021862958213}
+  - {fileID: 7025956851322876506}
+  - {fileID: 7664813000783046459}
+  - {fileID: 7692172466172752897}
+  - {fileID: -6253748505596640770}
+  - {fileID: 960581535106790152}
+  - {fileID: -7255199940963213724}
+  - {fileID: 6296421775918530851}
+  - {fileID: -4489358682618409349}
+  - {fileID: -5046686074125687505}
+--- !u!114 &960581535106790152
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dce0f5966c2bf943a86eadf862a2eda, type: 3}
+  m_Name: Ufo_61C29E44
+  m_EditorClassIdentifier: 
+  id: 72057594037928197
+  technicalName: Ufo_61C29E44
+  parentId: 216172783392894804
+  childrenIds: 
+  mDisplayName: Images
+  mExternalId: 
+  mShortId: 1640144452
+  mZIndex: 0
+--- !u!114 &1383178021862958213
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c415f5fd25e5e499ed03cf139047c5, type: 3}
+  m_Name: DFr_40D13A11
+  m_EditorClassIdentifier: 
+  id: 72057594037928281
+  technicalName: DFr_40D13A11
+  parentId: 72057594037928252
+  childrenIds: 
+  mMenuText: 
+  mStageDirections: 
+  mSpeaker:
+    objectRef: 72057594037928213
+  mSplitHeight: 64
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: ORDER UP
+  mExternalId: 
+  mPosition: {x: 650, y: 175}
+  mZIndex: 6
+  mSize: {x: 225, y: 200}
+  mShortId: 1087453713
+  mInputPins:
+    value:
+    - id: 72057594037928284
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928281
+      mConnections:
+        value: []
+      mOwnerInstanceId: 0
+  mOutputPins:
+    value:
+    - id: 72057594037928285
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928281
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928256
+          mTarget:
+            objectRef: 72057594037928252
+      mOwnerInstanceId: 0
+--- !u!114 &3080399797258632913
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c415f5fd25e5e499ed03cf139047c5, type: 3}
+  m_Name: DFr_EC3974DC
+  m_EditorClassIdentifier: 
+  id: 72057594037928217
+  technicalName: DFr_EC3974DC
+  parentId: 72057594037928207
+  childrenIds: 
+  mMenuText: 
+  mStageDirections: 
+  mSpeaker:
+    objectRef: 72057594037928213
+  mSplitHeight: 64
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 'Hello there, welcome to the dojo
+
+    
+
+    B I T C H'
+  mExternalId: 
+  mPosition: {x: -100, y: 225}
+  mZIndex: 0
+  mSize: {x: 225, y: 200}
+  mShortId: 3963188444
+  mInputPins:
+    value:
+    - id: 72057594037928220
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928217
+      mConnections:
+        value: []
+      mOwnerInstanceId: 0
+  mOutputPins:
+    value:
+    - id: 72057594037928221
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928217
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928225
+          mTarget:
+            objectRef: 72057594037928222
+      mOwnerInstanceId: 0
+--- !u!114 &3791074532541794227
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 289cdb7a349c9ff40aafb6c650b0b8d5, type: 3}
+  m_Name: Dlg_E8DA01CC
+  m_EditorClassIdentifier: 
+  id: 72057594037928252
+  technicalName: Dlg_E8DA01CC
+  parentId: 216172783251375095
+  childrenIds: 4201000000000001490100000000000151010000000000015901000000000001
+  mAttachments:
+    listIds: 
+  mDisplayName: Bracnching Test
+  mPreviewImage:
+    mViewBoxX: 0
+    mViewBoxY: 0
+    mViewBoxWidth: 0
+    mViewBoxHeight: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 
+  mExternalId: 
+  mPosition: {x: 592, y: -150}
+  mZIndex: 1
+  mSize: {x: 291, y: 200}
+  mShortId: 3906601420
+  mInputPins:
+    value:
+    - id: 72057594037928255
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928252
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928261
+          mTarget:
+            objectRef: 72057594037928258
+      mOwnerInstanceId: 0
+  mOutputPins:
+    value:
+    - id: 72057594037928256
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928252
+      mConnections:
+        value: []
+      mOwnerInstanceId: 0
+--- !u!114 &5781539162610975756
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 289cdb7a349c9ff40aafb6c650b0b8d5, type: 3}
+  m_Name: Dlg_BFE34243
+  m_EditorClassIdentifier: 
+  id: 72057594037928290
+  technicalName: Dlg_BFE34243
+  parentId: 216172783251375095
+  childrenIds: 6c010000000000017901000000000001
+  mAttachments:
+    listIds: 
+  mDisplayName: VarTest
+  mPreviewImage:
+    mViewBoxX: 0
+    mViewBoxY: 0
+    mViewBoxWidth: 0
+    mViewBoxHeight: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 
+  mExternalId: 
+  mPosition: {x: 1092, y: -50}
+  mZIndex: 2
+  mSize: {x: 291, y: 200}
+  mShortId: 3219341891
+  mInputPins:
+    value:
+    - id: 72057594037928293
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928290
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928303
+          mTarget:
+            objectRef: 72057594037928300
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928316
+          mTarget:
+            objectRef: 72057594037928313
+      mOwnerInstanceId: 0
+  mOutputPins:
+    value:
+    - id: 72057594037928294
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928290
+      mConnections:
+        value: []
+      mOwnerInstanceId: 0
+--- !u!114 &6296421775918530851
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dce0f5966c2bf943a86eadf862a2eda, type: 3}
+  m_Name: Ufo_0650E900
+  m_EditorClassIdentifier: 
+  id: 72057594037928201
+  technicalName: Ufo_0650E900
+  parentId: 216172783392894804
+  childrenIds: 
+  mDisplayName: Audio
+  mExternalId: 
+  mShortId: 105965824
+  mZIndex: 0
+--- !u!114 &7025956851322876506
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c415f5fd25e5e499ed03cf139047c5, type: 3}
+  m_Name: DFr_737AA918
+  m_EditorClassIdentifier: 
+  id: 72057594037928300
+  technicalName: DFr_737AA918
+  parentId: 72057594037928290
+  childrenIds: 
+  mMenuText: 
+  mStageDirections: 
+  mSpeaker:
+    objectRef: 72057594037928296
+  mSplitHeight: 64
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: You worked hard last night, have some shmoney
+  mExternalId: 
+  mPosition: {x: -50, y: 125}
+  mZIndex: 0
+  mSize: {x: 225, y: 200}
+  mShortId: 1937418520
+  mInputPins:
+    value:
+    - id: 72057594037928303
+      mText:
+        value:
+          handlerId: 1
+          ownerId: 72057594037928300
+          ownerInstanceId: 0
+          mRawScript: playerVars.hasMoney == false;
+      mOwner: 72057594037928300
+      mConnections:
+        value: []
+      mOwnerInstanceId: 0
+  mOutputPins:
+    value:
+    - id: 72057594037928304
+      mText:
+        value:
+          handlerId: 2
+          ownerId: 72057594037928300
+          ownerInstanceId: 0
+          mRawScript: 'playerVars.Wallet += 100;
+
+            playerVars.hasMoney
+            = true;'
+      mOwner: 72057594037928300
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928294
+          mTarget:
+            objectRef: 72057594037928290
+      mOwnerInstanceId: 0
+--- !u!114 &7664813000783046459
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c415f5fd25e5e499ed03cf139047c5, type: 3}
+  m_Name: DFr_F0519AE6
+  m_EditorClassIdentifier: 
+  id: 72057594037928313
+  technicalName: DFr_F0519AE6
+  parentId: 72057594037928290
+  childrenIds: 
+  mMenuText: 
+  mStageDirections: 
+  mSpeaker:
+    objectRef: 72057594037928296
+  mSplitHeight: 64
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: Treat yo self
+  mExternalId: 
+  mPosition: {x: -50, y: -100}
+  mZIndex: 3
+  mSize: {x: 225, y: 200}
+  mShortId: 4031879910
+  mInputPins:
+    value:
+    - id: 72057594037928316
+      mText:
+        value:
+          handlerId: 3
+          ownerId: 72057594037928313
+          ownerInstanceId: 0
+          mRawScript: playerVars.hasMoney == true;
+      mOwner: 72057594037928313
+      mConnections:
+        value: []
+      mOwnerInstanceId: 0
+  mOutputPins:
+    value:
+    - id: 72057594037928317
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928313
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928294
+          mTarget:
+            objectRef: 72057594037928290
+      mOwnerInstanceId: 0
+--- !u!114 &7692172466172752897
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c8ecd94c6708ff49b1dde2b0e34eb5c, type: 3}
+  m_Name: Ntt_7581A968
+  m_EditorClassIdentifier: 
+  id: 72057594037928213
+  technicalName: Ntt_7581A968
+  parentId: 216172785005863603
+  childrenIds: 
+  mAttachments:
+    listIds: 
+  mDisplayName: John
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 
+  mExternalId: 
+  mPosition: {x: 0, y: 0}
+  mZIndex: 0
+  mSize: {x: 256, y: 196}
+  mPreviewImage:
+    mViewBoxX: 0
+    mViewBoxY: 0
+    mViewBoxWidth: 0
+    mViewBoxHeight: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mShortId: 1971431784
+--- !u!114 &7998252630620126468
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c415f5fd25e5e499ed03cf139047c5, type: 3}
+  m_Name: DFr_7CEA9E8F
+  m_EditorClassIdentifier: 
+  id: 72057594037928265
+  technicalName: DFr_7CEA9E8F
+  parentId: 72057594037928252
+  childrenIds: 
+  mMenuText: Apples
+  mStageDirections: 
+  mSpeaker:
+    objectRef: 72057594037928213
+  mSplitHeight: 64
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: Oh, well I'd rather do orange..
+  mExternalId: 
+  mPosition: {x: 275, y: 50}
+  mZIndex: 2
+  mSize: {x: 225, y: 200}
+  mShortId: 2095750799
+  mInputPins:
+    value:
+    - id: 72057594037928268
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928265
+      mConnections:
+        value: []
+      mOwnerInstanceId: 0
+  mOutputPins:
+    value:
+    - id: 72057594037928269
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928265
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928284
+          mTarget:
+            objectRef: 72057594037928281
+      mOwnerInstanceId: 0
+--- !u!114 &8616125842117314633
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c415f5fd25e5e499ed03cf139047c5, type: 3}
+  m_Name: DFr_73B70C61
+  m_EditorClassIdentifier: 
+  id: 72057594037928222
+  technicalName: DFr_73B70C61
+  parentId: 72057594037928207
+  childrenIds: 
+  mMenuText: 
+  mStageDirections: 
+  mSpeaker:
+    objectRef: 72057594037928213
+  mSplitHeight: 64
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: Would you like an Knuckle sandwich?
+  mExternalId: 
+  mPosition: {x: 275, y: 225}
+  mZIndex: 1
+  mSize: {x: 225, y: 200}
+  mShortId: 1941376097
+  mInputPins:
+    value:
+    - id: 72057594037928225
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928222
+      mConnections:
+        value: []
+      mOwnerInstanceId: 0
+  mOutputPins:
+    value:
+    - id: 72057594037928226
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928222
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928211
+          mTarget:
+            objectRef: 72057594037928207
+      mOwnerInstanceId: 0
+--- !u!114 &9078397651776240109
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 289cdb7a349c9ff40aafb6c650b0b8d5, type: 3}
+  m_Name: Dlg_8AE772AC
+  m_EditorClassIdentifier: 
+  id: 72057594037928207
+  technicalName: Dlg_8AE772AC
+  parentId: 216172783251375095
+  childrenIds: 19010000000000011e01000000000001
+  mAttachments:
+    listIds: 
+  mDisplayName: LinearTest
+  mPreviewImage:
+    mViewBoxX: 0
+    mViewBoxY: 0
+    mViewBoxWidth: 0
+    mViewBoxHeight: 0
+    mMode: 0
+    mAsset:
+      objectRef: 0
+  mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+  mText: 
+  mExternalId: 
+  mPosition: {x: 142, y: -150}
+  mZIndex: 0
+  mSize: {x: 291, y: 200}
+  mShortId: 2330423980
+  mInputPins:
+    value:
+    - id: 72057594037928210
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928207
+      mConnections:
+        value:
+        - mLabel: 
+          mColor: {r: 0.5764706, g: 0.75686276, b: 0.8, a: 1}
+          mTargetPin: 72057594037928220
+          mTarget:
+            objectRef: 72057594037928217
+      mOwnerInstanceId: 0
+  mOutputPins:
+    value:
+    - id: 72057594037928211
+      mText:
+        value:
+          handlerId: 0
+          ownerId: 0
+          ownerInstanceId: 0
+          mRawScript: 
+      mOwner: 72057594037928207
+      mConnections:
+        value: []
+      mOwnerInstanceId: 0
