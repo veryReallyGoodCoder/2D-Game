@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.Playables;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerScript : MonoBehaviour
@@ -19,11 +21,7 @@ public class PlayerScript : MonoBehaviour
 
     [Header("Cinematic")]
 
-    public Transform cam;
-    public Transform muscleDudes;
-
-
-
+    public PlayableDirector pd;
     
     // Start is called before the first frame update
     void Start()
@@ -52,6 +50,7 @@ public class PlayerScript : MonoBehaviour
         else
         {
             anim.SetBool("isWalking", true);
+            Debug.Log("Moving");
         }
 
         if(facingRight && input < 0)
@@ -88,8 +87,9 @@ public class PlayerScript : MonoBehaviour
 
     public void PlayCinematic()
     {
-        cam.position = muscleDudes.position;
-        Debug.Log("Start");
+        pd.Play();
     }
+
+    
 
 }
