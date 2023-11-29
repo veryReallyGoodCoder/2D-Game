@@ -16,6 +16,14 @@ public class PlayerScript : MonoBehaviour
 
     public int moveSpeed = 5;
     private bool facingRight;
+
+    [Header("Cinematic")]
+
+    public Transform cam;
+    public Transform muscleDudes;
+
+
+
     
     // Start is called before the first frame update
     void Start()
@@ -71,8 +79,17 @@ public class PlayerScript : MonoBehaviour
     {
         if(collision.tag == "Trigger")
         {
-            PlayAnim.Invoke();
+            Debug.Log("Triggered");
+            //PlayAnim.Invoke();
+
+            PlayCinematic();
         }
+    }
+
+    public void PlayCinematic()
+    {
+        cam.position = muscleDudes.position;
+        Debug.Log("Start");
     }
 
 }
